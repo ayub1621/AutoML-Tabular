@@ -1,4 +1,4 @@
-# AutoML Tabular Training and Prediction
+# Tabular Classification Model for Pet Adoption Prediction using Vertex AI Python Client Library
 
 This program utilizes the Vertex AI Python client library for the training and deployment of a tabular classification model for online prediction. The program is implemented in Jupyter Lab notebook.
 
